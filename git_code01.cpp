@@ -8,6 +8,7 @@ int main()
 {
     cout << "this is a simple code!" << endl;
     cout << "studying using Git" << endl;
+    cout << "know what Git is" <<endl;
 
     return 0;
 }
